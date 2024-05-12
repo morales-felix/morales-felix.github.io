@@ -8,8 +8,8 @@ Bachelor of Science in Bioengineering, University of Illinois at Chicago
 
 ## Work Experience  
 
-Data Scientist @ Vizient, Inc.
-Informatics and Data Science Fellow @ Vizient, Inc.
+Data Scientist @ Vizient, Inc.  
+Informatics and Data Science Fellow @ Vizient, Inc.  
 Research Specialist @ Northwestern University  
 
 ## Projects  
