@@ -1,4 +1,4 @@
-# Data Scientist - Project Portfolio 
+# Data Scientist - Project Portfolio  
 
 ## Education
 
