@@ -1,4 +1,4 @@
-# [Data Scientist - Project Portfolio](https://morales-felix.github.io/)  
+# Data Scientist - Project Portfolio 
 
 ## Education
 
