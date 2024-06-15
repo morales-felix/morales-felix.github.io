@@ -26,6 +26,7 @@ Research Specialist @ Northwestern University
 
 ### Soccer
 1. [Qatar 2022 FIFA World Cup simulation](https://morales-felix.github.io/Qatar-2022-FIFA-World-Cup-simulation/)
-  
+
+    
 ### General science/Courses
 1. [Mendel cooked up his data!](https://github.com/morales-felix/Mendel_cooked_up_his_data)
