@@ -27,8 +27,10 @@ Analyses of severe pneumonia
 
 ## Soccer Projects  
   
-[Qatar 2022 FIFA World Cup simulation](https://morales-felix.github.io/Qatar-2022-FIFA-World-Cup-simulation/)  
+Qatar 2022 FIFA World Cup simulation  
+   - [Jupyter notebook/Blog post](https://morales-felix.github.io/Qatar-2022-FIFA-World-Cup-simulation/)  
   
 ## General Projects  
 
-[Mendel cooked up his data!](https://github.com/morales-felix/Mendel_cooked_up_his_data)
+Mendel cooked up his data!  
+   - [Jupyter notebook/Blog post](https://github.com/morales-felix/Mendel_cooked_up_his_data)
