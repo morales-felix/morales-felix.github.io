@@ -15,7 +15,7 @@ Research Specialist @ Northwestern University
 ## Healthcare/Health Informatics Projects  
 
 Machine learning pipeline automatically diagnoses ARDS in EHR data
-   - [Academic publication](https://doi.org/10.1101/2024.05.21.24307715)
+   - [medRxiv preprint](https://doi.org/10.1101/2024.05.21.24307715)
    - [GitHub repository](https://github.com/amarallab/ARDS_diagnosis)
 
 SMART on FHIR app (using Python's Flask framework)
