@@ -19,8 +19,8 @@ Machine learning pipeline automatically diagnoses ARDS in EHR data
    - [GitHub repository](https://github.com/amarallab/ARDS_diagnosis)
 
 SMART on FHIR app (using Python's Flask framework)
-   - [Run the app](https://launch.smarthealthit.org/?launch_url=http%3A%2F%2Flocalhost%3A4201%2F&launch=WzAsIiIsIiIsIkFVVE8iLDAsMCwwLCJwYXRpZW50L1BhdGllbnQucnMgcGF0aWVudC9PYnNlcnZhdGlvbi5ycyBsYXVuY2ggb2ZmbGluZV9hY2Nlc3Mgb3BlbmlkIGZoaXJVc2VyIiwiaHR0cDovL2xvY2FsaG9zdDo0MjAxL2ZoaXItYXBwLyIsImNsaWVudC1pZCIsIiIsIiIsIiIsIiIsMCwxXQ&tab=0&validation=1)
-   - [GitHub repository](https://github.com/morales-felix/SMART-on-FHIR-Python-app)
+   - [Run the app](https://launch.smarthealthit.org/?launch_url=https%3A%2F%2Fsmart-on-fhir-python-app.onrender.com%2F&launch=WzAsIjQ2ZDM3ODVlLTg2NWItNDZhNS04ZWE5LTg2YTcyYTE4M2RlMyIsIjkyMTQ5NDgwLWZlODctNDRiMS1iODM1LTM3YjcxODYxNGMwNyIsIkFVVE8iLDAsMCwwLCJwYXRpZW50L1BhdGllbnQucnMgcGF0aWVudC9PYnNlcnZhdGlvbi5ycyBsYXVuY2ggb2ZmbGluZV9hY2Nlc3Mgb3BlbmlkIGZoaXJVc2VyIiwiaHR0cHM6Ly9zbWFydC1vbi1maGlyLXB5dGhvbi1hcHAub25yZW5kZXIuY29tL2ZoaXItYXBwLyIsImNsaWVudC1pZCIsIiIsIiIsIiIsIiIsMCwwXQ&tab=0&validation=1) Click "Launch" in the following page. You can also choose a Patient and a Provider before clicking "Launch" (no need to select an Encounter).
+   - [GitHub repository (main branch)](https://github.com/morales-felix/SMART-on-FHIR-Python-app)
 
 Analyses of severe pneumonia
    - [GitHub repository](https://github.com/morales-felix/analyses_of_severe_pneumonia)
