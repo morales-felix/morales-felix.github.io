@@ -23,7 +23,7 @@ SMART on FHIR app (using Python's Flask framework)
         - *For instructions on what to click or do once you're there, read [here](https://github.com/morales-felix/SMART-on-FHIR-Python-app/blob/deployment/README.md#usage).*
    - [GitHub repository (main branch)](https://github.com/morales-felix/SMART-on-FHIR-Python-app)
 
-Analyses of severe pneumonia
+Analyses of Severe Pneumonia Patients
    - [GitHub repository](https://github.com/morales-felix/analyses_of_severe_pneumonia)
 
 ## Soccer Projects  
