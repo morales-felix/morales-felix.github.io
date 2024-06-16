@@ -19,7 +19,7 @@ Research Specialist @ Northwestern University
    - [Academic publication](https://doi.org/10.1101/2024.05.21.24307715)
    - [GitHub repository](https://github.com/amarallab/ARDS_diagnosis)
 2. SMART on FHIR app:
-   - [Run the app](https://morales-felix.github.io/SMART-on-FHIR-Python-app/)
+   - [Run the app](https://launch.smarthealthit.org/?launch_url=http%3A%2F%2Flocalhost%3A4201%2F&launch=WzAsIiIsIiIsIkFVVE8iLDAsMCwwLCJwYXRpZW50L1BhdGllbnQucnMgcGF0aWVudC9PYnNlcnZhdGlvbi5ycyBsYXVuY2ggb2ZmbGluZV9hY2Nlc3Mgb3BlbmlkIGZoaXJVc2VyIiwiaHR0cDovL2xvY2FsaG9zdDo0MjAxL2ZoaXItYXBwLyIsImNsaWVudC1pZCIsIiIsIiIsIiIsIiIsMCwxXQ&tab=0&validation=1)
    - [GitHub repository](https://github.com/morales-felix/SMART-on-FHIR-Python-app)
 3. Analyses of severe pneumonia:
    - [GitHub repository](https://github.com/morales-felix/analyses_of_severe_pneumonia)
