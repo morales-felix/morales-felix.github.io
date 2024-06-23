@@ -33,7 +33,11 @@ Research Specialist @ Northwestern University
   
 **Qatar 2022 FIFA World Cup simulation**  
 
-- [Jupyter notebook/Blog post](https://morales-felix.github.io/Qatar-2022-FIFA-World-Cup-simulation/)  
+- [Blog post](https://morales-felix.github.io/Qatar-2022-FIFA-World-Cup-simulation/)
+
+**Copa America 2024 simulation** 
+
+- [Blog post](https://medium.com/@fmoralcaballero/predicting-the-winner-of-copa-america-2024-with-data-science-85bac848a2b7)
   
 ## General Projects  
 
