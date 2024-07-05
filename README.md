@@ -37,7 +37,8 @@ Research Specialist @ Northwestern University
 
 **Copa America 2024 simulation** 
 
-- [Blog post](https://medium.com/@fmoralcaballero/predicting-the-winner-of-copa-america-2024-with-data-science-85bac848a2b7)
+- [Part 1: Predicting the Group Stage](https://medium.com/@fmoralcaballero/predicting-the-winner-of-copa-america-2024-with-data-science-85bac848a2b7)
+- [Part 2: Predicting the Knockout Stage](https://medium.com/@fmoralcaballero/predicting-the-winner-of-copa-america-2024-with-data-science-part-2-b0be0b132f30)
   
 ## General Projects  
 
