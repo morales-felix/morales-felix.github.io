@@ -10,7 +10,9 @@ Bachelor of Science in Bioengineering, University of Illinois at Chicago
 
 Data Scientist @ Vizient, Inc. (current)  
 Informatics and Data Science Fellow @ Vizient, Inc.  
-Research Specialist @ Northwestern University  
+Research Specialist @ Northwestern University 
+
+## [Check out my blog!](https://medium.com/@fmoralcaballero)  
 
 ## Healthcare/Health Informatics Projects  
 
