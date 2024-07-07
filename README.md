@@ -12,8 +12,6 @@ Data Scientist @ Vizient, Inc. (current)
 Informatics and Data Science Fellow @ Vizient, Inc.  
 Research Specialist @ Northwestern University 
 
-## [Check out my blog!](https://medium.com/@fmoralcaballero)  
-
 ## Healthcare/Health Informatics Projects  
 
 **Machine learning pipeline automatically diagnoses ARDS in EHR data**
@@ -47,3 +45,7 @@ Research Specialist @ Northwestern University
 **Mendel cooked up his data!**  
 
 - [Jupyter notebook/Blog post](https://github.com/morales-felix/Mendel_cooked_up_his_data)
+
+## Check out my blog!  
+  
+https://medium.com/@fmoralcaballero
