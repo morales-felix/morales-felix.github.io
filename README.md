@@ -1,8 +1,6 @@
 # Data Scientist - Project Portfolio 
 
-## Check out my blog!  
-  
-- [Blog](https://medium.com/@fmoralcaballero)
+## Check my writing on [Medium](https://medium.com/@fmoralcaballero)!  
 
 ## Education
 
@@ -48,4 +46,4 @@ Research Specialist @ Northwestern University
 
 **Mendel cooked up his data!**  
 
-- [Jupyter notebook/Blog post](https://github.com/morales-felix/Mendel_cooked_up_his_data)
+- [Jupyter notebook](https://github.com/morales-felix/Mendel_cooked_up_his_data)
