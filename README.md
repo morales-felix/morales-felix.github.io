@@ -1,5 +1,9 @@
 # Data Scientist - Project Portfolio 
 
+## Check out my blog!  
+  
+- [Blog](https://medium.com/@fmoralcaballero)
+
 ## Education
 
 Master of Science in Quantitative and Systems Biology, Northwestern University  
@@ -45,7 +49,3 @@ Research Specialist @ Northwestern University
 **Mendel cooked up his data!**  
 
 - [Jupyter notebook/Blog post](https://github.com/morales-felix/Mendel_cooked_up_his_data)
-
-## Check out my blog!  
-  
-https://medium.com/@fmoralcaballero
