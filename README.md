@@ -11,7 +11,7 @@ Bachelor of Science in Bioengineering, University of Illinois at Chicago
 ## Work Experience  
 
 Research Specialist @ Northwestern University (current)  
-Data Scientist @ Vizient, Inc. 
+Data Scientist @ Vizient, Inc.  
 Informatics and Data Science Fellow @ Vizient, Inc.
 
 ## Healthcare/Health Informatics Projects  
