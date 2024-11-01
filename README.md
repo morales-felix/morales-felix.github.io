@@ -10,9 +10,9 @@ Bachelor of Science in Bioengineering, University of Illinois at Chicago
 
 ## Work Experience  
 
-Data Scientist @ Vizient, Inc. (current)  
-Informatics and Data Science Fellow @ Vizient, Inc.  
-Research Specialist @ Northwestern University 
+Research Specialist @ Northwestern University (current)  
+Data Scientist @ Vizient, Inc. 
+Informatics and Data Science Fellow @ Vizient, Inc.
 
 ## Healthcare/Health Informatics Projects  
 
@@ -29,6 +29,7 @@ Research Specialist @ Northwestern University
 
 **Analyses of Severe Pneumonia Patients**
 
+- [PNAS paper](https://doi.org/10.1073/pnas.2417688121)
 - [GitHub repository](https://github.com/morales-felix/analyses_of_severe_pneumonia)
 
 ## Soccer Projects  
